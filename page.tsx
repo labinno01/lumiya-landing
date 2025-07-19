@@ -1,4 +1,5 @@
-export default function Home() {
+href="https://buy.stripe.com/test_5kQ28tef4aovfCneU77Vm00"
+  className="rounded bg-indigo-600 px-6 py-3 text-white font-semibold hover:bg-indigo-700"export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-slate-50 p-8">
       <h1 className="text-4xl font-bold text-slate-900 mb-4">Lumiya</h1>
